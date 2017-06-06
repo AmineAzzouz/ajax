@@ -8,9 +8,9 @@ Simple AJAX example : login, signin
 Links
 -----
 
-OOP with PHP[FR][oopfr][EN][oopen]
-[JQuery][j1]
-[JQuery-ui][j2] For Animation
+OOP with PHP[FR][oopfr][EN][oopen]<br>
+[JQuery][j1]<br>
+[JQuery-ui][j2] (For Animation)<br>
 
 $.ajax
 ------
