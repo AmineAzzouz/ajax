@@ -17,10 +17,10 @@ $.ajax
 
 ```js
 $.ajax(
-	url:"",
-	data:{},
-	type:"POST",
-	success:function(){}
+  url:"",
+  data:{},
+  type:"POST",
+  success:function(){}
 );
 ```
 
